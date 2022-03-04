@@ -4,7 +4,7 @@
 - 🔭 I’m currently researching on hot topics like bitcoin and NFTs 
 - 🌱 I’m currently learning DSA in C++
 - 💬 Ask me about anything 
-- 📫 How to reach me: 
+- 📫 How to reach me: malvikasingh1411@gmail.com 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am an ambidextrous
 
