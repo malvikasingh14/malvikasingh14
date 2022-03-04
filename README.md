@@ -1,22 +1,16 @@
-### Hi there 👋
 
-<!--
-**malvikasingh14/malvikasingh14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![file cover - 1](https://user-images.githubusercontent.com/78156658/156739075-f27c0a85-015a-469b-802a-d22a6bbac76a.png)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently researching on hot topics like bitcoin and NFTs 
+- 🌱 I’m currently learning DSA in C++
+- 💬 Ask me about anything 
+- 📫 How to reach me: 
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I am an ambidextrous
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malvikasingh14)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malvikasingh14&show_icons=true&theme=monokai)
 
