@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malvikasingh14)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malvikasingh14)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=monokai)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malvikasingh14&show_icons=true&theme=monokai)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=malvikasingh14&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
