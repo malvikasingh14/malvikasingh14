@@ -13,7 +13,6 @@
 - [Is data still the new oil?](https://medium.com/@malvikasingh1411/is-data-still-the-new-oil-2e42b95335da)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malvikasingh14&show_icons=true&theme=monokai)
 
